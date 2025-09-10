@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Saloni Shah
-- 🌱 I'm a first-year computer engineering student at the University of Minnesota-Twin Cities.
-- 👀 I'm interested in exploring various areas in computer engineering, from software development to hardware and robotics.
-- 💞️ I'm looking forward to participating in internships and collaborating on projects to improve my skills.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saloni-shah-74a687221/)
+👋 Hi, I'm Saloni Shah
 
+🎓 Computer Engineering student at University of Minnesota-Twin Cities (Expected 2028)
+💼 Former Software Engineering Intern @ Arrcus (Networking Systems)
+🔧 Passionate about networking protocols, AI/ML, and full-stack development
+🚀 Building tools that solve real-world problems
+
+📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/saloni-shah-74a687221/)
 <!---
 SalShah20/SalShah20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
